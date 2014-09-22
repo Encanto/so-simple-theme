@@ -1,9 +1,9 @@
 # Site wide configuration
 
-title: Encanto2 Engineering
+title: Site Title
 locale: en_US
-description: Engineering Enterprise Intelligence
-logo: E2_logo_med.jpg
+description: Describe your website here.
+logo: site-logo.png
 search: true
 url: 
 
@@ -32,7 +32,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Encanto2
+  name: Your Name
   avatar: bio-photo.jpg
   email: you@email.com
   disqus-shortname:
